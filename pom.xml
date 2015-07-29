@@ -20,6 +20,10 @@
 			<artifactId>flume-ng-core</artifactId>
 			<version>1.6.0</version>
 		</dependency>
-
+		<dependency>
+			<groupId>com.aliyun.odps</groupId>
+			<artifactId>odps-sdk-core</artifactId>
+			<version>0.17.3</version>
+		</dependency>
 	</dependencies>
 </project>
